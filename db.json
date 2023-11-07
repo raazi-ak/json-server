@@ -2,7 +2,7 @@
     "data": [
       {
         "name": "Rafting Expedition",
-        "img": "img/rafting.jpg",
+        "img": "rafting.jpg",
         "price": 1500,
         "people": 10,
         "stars": 4,
@@ -11,7 +11,7 @@
       },
       {
         "name": "Roopkund Trek",
-        "img": "img/trekking.jpg",
+        "img": "trekking.jpg",
         "price": 2500,
         "people": 15,
         "stars": 5,
@@ -20,7 +20,7 @@
       },
       {
         "name": "Goa Adventure",
-        "img": "img/goa.jpg",
+        "img": "goa.jpg",
         "price": 1200,
         "people": 8,
         "stars": 4,
@@ -29,7 +29,7 @@
       },
       {
         "name": "Paragliding",
-        "img": "img/paragliding.jpg",
+        "img": "paragliding.jpg",
         "price": 1800,
         "people": 12,
         "stars": 5,
