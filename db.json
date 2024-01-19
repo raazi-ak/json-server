@@ -1,7 +1,6 @@
 {
     "data": [
       {
-        "name": "Rafting Expedition",
         "img": "mountain.jpeg",
         "price": 1500,
         "people": 10,
